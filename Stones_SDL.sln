@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stones_SDL", "Stones_SDL\Stones_SDL.csproj", "{28C0184A-AB95-4E6E-A0E8-69C340170741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SdlDotNet", "..\..\Code\CSharp\SdlDotNet\source\src\SdlDotNet.csproj", "{7B28E1B7-FADB-4D0A-BA54-77E2BE941418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28C0184A-AB95-4E6E-A0E8-69C340170741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C0184A-AB95-4E6E-A0E8-69C340170741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C0184A-AB95-4E6E-A0E8-69C340170741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C0184A-AB95-4E6E-A0E8-69C340170741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B28E1B7-FADB-4D0A-BA54-77E2BE941418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B28E1B7-FADB-4D0A-BA54-77E2BE941418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B28E1B7-FADB-4D0A-BA54-77E2BE941418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B28E1B7-FADB-4D0A-BA54-77E2BE941418}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
